@@ -2,11 +2,11 @@
 
 A Dart helper-package for working MIME and content types.
 
-It differs from Google's [MIME][pub_mime] in two main ways:
+It differs from Google's [MIME package][pub_mime] in two main ways:
 1. Content type lookup doesn't take file contents (magic bytes) into account - it's purely based on an extension or file name.
 1. The library provides both content type-to-extension AND extension-to-content type mapping.
 
-MIME/content type database from [https://github.com/jshttp/mime-db]
+MIME/content type database from https://github.com/jshttp/mime-db
 
 ## Usage
 
