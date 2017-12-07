@@ -1,4 +1,6 @@
-# mime_types
+# mime_types 
+
+[![Build Status](https://travis-ci.org/tmannherz/mime_types.svg?branch=master)](https://travis-ci.org/tmannherz/mime_types)
 
 A Dart helper-package for working MIME and content types.
 
