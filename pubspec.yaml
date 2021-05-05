@@ -5,6 +5,6 @@ author: Todd Mannherz <todd.mannherz@gmail.com>
 homepage: https://github.com/tmannherz/mime_types
 environment:
  # The pub client defaults to an <2.0.0 sdk constraint which we need to explicitly overwrite.
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 dev_dependencies:
   test:
